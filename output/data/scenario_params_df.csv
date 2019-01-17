@@ -1,0 +1,131 @@
+"","node","shape","scale","min","max","distn","scenario","val_type","p"
+"1","Agree to Screen",NA,NA,25,25,"unif",1,"cost",NA
+"2","Agree to Screen",NA,NA,25,25,"unif",2,"cost",NA
+"3","Agree to Screen",NA,NA,25,25,"unif",3,"cost",NA
+"4","Agree to Screen",NA,NA,25,25,"unif",4,"cost",NA
+"5","Agree to Screen",NA,NA,25,25,"unif",5,"cost",NA
+"6","Agree to Screen",NA,NA,25,25,"unif",6,"cost",NA
+"7","Agree to Screen",NA,NA,25,25,"unif",7,"cost",NA
+"8","Agree to Screen",NA,NA,25,25,"unif",8,"cost",NA
+"9","Agree to Screen",NA,NA,25,25,"unif",9,"cost",NA
+"10","Agree to Screen",NA,NA,25,25,"unif",10,"cost",NA
+"11","Complete Treatment",NA,NA,677,677,"unif",1,"cost",NA
+"12","Complete Treatment",NA,NA,677,677,"unif",2,"cost",NA
+"13","Complete Treatment",NA,NA,677,677,"unif",3,"cost",NA
+"14","Complete Treatment",NA,NA,677,677,"unif",4,"cost",NA
+"15","Complete Treatment",NA,NA,677,677,"unif",5,"cost",NA
+"16","Complete Treatment",NA,NA,677,677,"unif",6,"cost",NA
+"17","Complete Treatment",NA,NA,677,677,"unif",7,"cost",NA
+"18","Complete Treatment",NA,NA,677,677,"unif",8,"cost",NA
+"19","Complete Treatment",NA,NA,677,677,"unif",9,"cost",NA
+"20","Complete Treatment",NA,NA,677,677,"unif",10,"cost",NA
+"21","Not Complete Treatment",NA,NA,113,113,"unif",1,"cost",NA
+"22","Not Complete Treatment",NA,NA,113,113,"unif",2,"cost",NA
+"23","Not Complete Treatment",NA,NA,113,113,"unif",3,"cost",NA
+"24","Not Complete Treatment",NA,NA,113,113,"unif",4,"cost",NA
+"25","Not Complete Treatment",NA,NA,113,113,"unif",5,"cost",NA
+"26","Not Complete Treatment",NA,NA,113,113,"unif",6,"cost",NA
+"27","Not Complete Treatment",NA,NA,113,113,"unif",7,"cost",NA
+"28","Not Complete Treatment",NA,NA,113,113,"unif",8,"cost",NA
+"29","Not Complete Treatment",NA,NA,113,113,"unif",9,"cost",NA
+"30","Not Complete Treatment",NA,NA,113,113,"unif",10,"cost",NA
+"31","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",1,"cost",NA
+"32","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",2,"cost",NA
+"33","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",3,"cost",NA
+"34","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",4,"cost",NA
+"35","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",5,"cost",NA
+"36","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",6,"cost",NA
+"37","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",7,"cost",NA
+"38","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",8,"cost",NA
+"39","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",9,"cost",NA
+"40","Symptoms Hepatotoxicity",0,1,NA,NA,"gamma",10,"cost",NA
+"41","Symptoms Nausea",0,1,NA,NA,"gamma",1,"cost",NA
+"42","Symptoms Nausea",0,1,NA,NA,"gamma",2,"cost",NA
+"43","Symptoms Nausea",0,1,NA,NA,"gamma",3,"cost",NA
+"44","Symptoms Nausea",0,1,NA,NA,"gamma",4,"cost",NA
+"45","Symptoms Nausea",0,1,NA,NA,"gamma",5,"cost",NA
+"46","Symptoms Nausea",0,1,NA,NA,"gamma",6,"cost",NA
+"47","Symptoms Nausea",0,1,NA,NA,"gamma",7,"cost",NA
+"48","Symptoms Nausea",0,1,NA,NA,"gamma",8,"cost",NA
+"49","Symptoms Nausea",0,1,NA,NA,"gamma",9,"cost",NA
+"50","Symptoms Nausea",0,1,NA,NA,"gamma",10,"cost",NA
+"51","Agree to Screen",NA,NA,NA,NA,NA,1,"p",1
+"52","Agree to Screen",NA,NA,NA,NA,NA,2,"p",1
+"53","Agree to Screen",NA,NA,NA,NA,NA,3,"p",1
+"54","Agree to Screen",NA,NA,NA,NA,NA,4,"p",1
+"55","Agree to Screen",NA,NA,NA,NA,NA,5,"p",0
+"56","Agree to Screen",NA,NA,NA,NA,NA,6,"p",1
+"57","Agree to Screen",NA,NA,NA,NA,NA,7,"p",0
+"58","Agree to Screen",NA,NA,NA,NA,NA,8,"p",1
+"59","Agree to Screen",NA,NA,NA,NA,NA,9,"p",1
+"60","Agree to Screen",NA,NA,NA,NA,NA,10,"p",1
+"61","Sensitivity",NA,NA,NA,NA,NA,1,"p",1
+"62","Sensitivity",NA,NA,NA,NA,NA,2,"p",1
+"63","Sensitivity",NA,NA,NA,NA,NA,3,"p",0
+"64","Sensitivity",NA,NA,NA,NA,NA,4,"p",1
+"65","Sensitivity",NA,NA,NA,NA,NA,5,"p",0
+"66","Sensitivity",NA,NA,NA,NA,NA,6,"p",1
+"67","Sensitivity",NA,NA,NA,NA,NA,7,"p",1
+"68","Sensitivity",NA,NA,NA,NA,NA,8,"p",0
+"69","Sensitivity",NA,NA,NA,NA,NA,9,"p",1
+"70","Sensitivity",NA,NA,NA,NA,NA,10,"p",1
+"71","Specificity",NA,NA,NA,NA,NA,1,"p",1
+"72","Specificity",NA,NA,NA,NA,NA,2,"p",1
+"73","Specificity",NA,NA,NA,NA,NA,3,"p",0
+"74","Specificity",NA,NA,NA,NA,NA,4,"p",1
+"75","Specificity",NA,NA,NA,NA,NA,5,"p",0
+"76","Specificity",NA,NA,NA,NA,NA,6,"p",1
+"77","Specificity",NA,NA,NA,NA,NA,7,"p",1
+"78","Specificity",NA,NA,NA,NA,NA,8,"p",1
+"79","Specificity",NA,NA,NA,NA,NA,9,"p",1
+"80","Specificity",NA,NA,NA,NA,NA,10,"p",1
+"81","Start Treatment",NA,NA,NA,NA,NA,1,"p",1
+"82","Start Treatment",NA,NA,NA,NA,NA,2,"p",0
+"83","Start Treatment",NA,NA,NA,NA,NA,3,"p",1
+"84","Start Treatment",NA,NA,NA,NA,NA,4,"p",1
+"85","Start Treatment",NA,NA,NA,NA,NA,5,"p",0
+"86","Start Treatment",NA,NA,NA,NA,NA,6,"p",1
+"87","Start Treatment",NA,NA,NA,NA,NA,7,"p",1
+"88","Start Treatment",NA,NA,NA,NA,NA,8,"p",1
+"89","Start Treatment",NA,NA,NA,NA,NA,9,"p",0
+"90","Start Treatment",NA,NA,NA,NA,NA,10,"p",1
+"91","Symptoms Nausea",NA,NA,NA,NA,NA,1,"p",0
+"92","Symptoms Nausea",NA,NA,NA,NA,NA,2,"p",0
+"93","Symptoms Nausea",NA,NA,NA,NA,NA,3,"p",0
+"94","Symptoms Nausea",NA,NA,NA,NA,NA,4,"p",0
+"95","Symptoms Nausea",NA,NA,NA,NA,NA,5,"p",0
+"96","Symptoms Nausea",NA,NA,NA,NA,NA,6,"p",0
+"97","Symptoms Nausea",NA,NA,NA,NA,NA,7,"p",0
+"98","Symptoms Nausea",NA,NA,NA,NA,NA,8,"p",0
+"99","Symptoms Nausea",NA,NA,NA,NA,NA,9,"p",0
+"100","Symptoms Nausea",NA,NA,NA,NA,NA,10,"p",0
+"101","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,1,"p",0
+"102","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,2,"p",0
+"103","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,3,"p",0
+"104","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,4,"p",0
+"105","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,5,"p",0
+"106","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,6,"p",0
+"107","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,7,"p",0
+"108","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,8,"p",0
+"109","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,9,"p",0
+"110","Symptoms Hepatotoxicity",NA,NA,NA,NA,NA,10,"p",0
+"111","Complete Treatment",NA,NA,NA,NA,NA,1,"p",1
+"112","Complete Treatment",NA,NA,NA,NA,NA,2,"p",0
+"113","Complete Treatment",NA,NA,NA,NA,NA,3,"p",1
+"114","Complete Treatment",NA,NA,NA,NA,NA,4,"p",0
+"115","Complete Treatment",NA,NA,NA,NA,NA,5,"p",0
+"116","Complete Treatment",NA,NA,NA,NA,NA,6,"p",1
+"117","Complete Treatment",NA,NA,NA,NA,NA,7,"p",1
+"118","Complete Treatment",NA,NA,NA,NA,NA,8,"p",1
+"119","Complete Treatment",NA,NA,NA,NA,NA,9,"p",1
+"120","Complete Treatment",NA,NA,NA,NA,NA,10,"p",0
+"121","Effective",NA,NA,NA,NA,NA,1,"p",1
+"122","Effective",NA,NA,NA,NA,NA,2,"p",0
+"123","Effective",NA,NA,NA,NA,NA,3,"p",1
+"124","Effective",NA,NA,NA,NA,NA,4,"p",0
+"125","Effective",NA,NA,NA,NA,NA,5,"p",0
+"126","Effective",NA,NA,NA,NA,NA,6,"p",0
+"127","Effective",NA,NA,NA,NA,NA,7,"p",1
+"128","Effective",NA,NA,NA,NA,NA,8,"p",1
+"129","Effective",NA,NA,NA,NA,NA,9,"p",1
+"130","Effective",NA,NA,NA,NA,NA,10,"p",1

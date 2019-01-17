@@ -1,0 +1,2 @@
+"","policy","min_screen_length_of_stay","incid_grps","treatment","LTBI_test","endpoint_cost","endpoint_QALY"
+"1","001","0","c(""(0,50]"", ""(50,150]"", ""(150,250]"", ""(250,350]"", ""(350,1e+05]"")","LTBI_Tx_3mISORIF","TSPOT","exit uk","exit uk"

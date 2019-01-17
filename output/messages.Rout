@@ -1,0 +1,90 @@
+Error: object 'pp' not found
+Warning messages:
+1: replacing previous import ‘crayon::reset’ by ‘git2r::reset’ when loading ‘LTBIscreeningproject’ 
+2: In data("policies") : data set ‘policies’ not found
+Warning message:
+In data("intervention_constants") :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("cost_effectiveness_params") :
+  data set ‘cost_effectiveness_params’ not found
+Warning message:
+In data("unit_costs") : data set ‘unit_costs’ not found
+Warning message:
+In data("scenario_params") : data set ‘scenario_params’ not found
+Warning message:
+In data("model_input_cohort") : data set ‘model_input_cohort’ not found
+Error: object 'intervention_constants' not found
+Error: object 'cost_effectiveness_params' not found
+Warning message:
+In data("policies") : data set ‘policies’ not found
+Warning message:
+In data("intervention_constants") :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("cost_effectiveness_params") :
+  data set ‘cost_effectiveness_params’ not found
+Warning message:
+In data("unit_costs") : data set ‘unit_costs’ not found
+Warning message:
+In data("scenario_params") : data set ‘scenario_params’ not found
+Warning message:
+In data("model_input_cohort") : data set ‘model_input_cohort’ not found
+Warning message:
+In data("policies", package = "ltbiScreenLite") :
+  data set ‘policies’ not found
+Warning message:
+In data("intervention_constants", package = "ltbiScreenLite") :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("policies", package = "ltbiScreenLite") :
+  data set ‘policies’ not found
+Warning message:
+In data("intervention_constants", package = "ltbiScreenLite") :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("cost_effectiveness_params", package = "ltbiScreenLite") :
+  data set ‘cost_effectiveness_params’ not found
+Warning message:
+In data("unit_costs", package = "ltbiScreenLite") :
+  data set ‘unit_costs’ not found
+Warning message:
+In data("scenario_params", package = "ltbiScreenLite") :
+  data set ‘scenario_params’ not found
+Warning message:
+In data("model_input_cohort", package = "ltbiScreenLite") :
+  data set ‘model_input_cohort’ not found
+Loading ltbiScreenLite
+Warning message:
+In data("policies", package = "ltbiScreenLite") :
+  data set ‘policies’ not found
+Warning message:
+In data("intervention_constants", package = "ltbiScreenLite") :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("cost_effectiveness_params", package = "ltbiScreenLite") :
+  data set ‘cost_effectiveness_params’ not found
+Warning message:
+In data("unit_costs", package = "ltbiScreenLite") :
+  data set ‘unit_costs’ not found
+Warning message:
+In data("scenario_params", package = "ltbiScreenLite") :
+  data set ‘scenario_params’ not found
+Warning message:
+In data("model_input_cohort", package = "ltbiScreenLite") :
+  data set ‘model_input_cohort’ not found
+Warning message:
+In data(intervention_constants) :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data(intervention_constants, envir = parent) :
+  data set ‘intervention_constants’ not found
+Warning message:
+In data("policies", package = "ltbiScreenLite") :
+  data set ‘policies’ not found
+Warning message:
+In data(policies, package = "ltbiScreenLite") :
+  data set ‘policies’ not found
+Error in setup_folders(policy_name = policies_ls[policy], interv) : 
+  could not find function "setup_folders"
+Error: object 'folders' not found

@@ -1,0 +1,4 @@
+,node,min,max,distn,scenario,val_type
+1,Agree to Screen,25,25,unif,1,cost
+2,Agree to Screen,50,50,unif,2,cost
+3,Agree to Screen,100,100,unif,3,cost
