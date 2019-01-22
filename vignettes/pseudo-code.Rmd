@@ -3,6 +3,7 @@ title: "Pseudo-code for LTBI screening model"
 author: "Nathan Green"
 date: "`r Sys.Date()`"
 output:
+  pdf_document: default
   html_document:
     keep_md: yes
 vignette: |
