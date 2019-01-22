@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-code for LTBI screening model"
 author: "Nathan Green"
-date: "`r Sys.Date()`"
+date: "2019-01-22"
 output:
   html_document:
     keep_md: yes
@@ -9,12 +9,7 @@ vignette: |
   %\VignetteIndexEntry{Vignette Title} %\VignetteEncoding{UTF-8} %\VignetteEngine{knitr::rmarkdown}
 ---
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
+
 
 ## Introduction
 
