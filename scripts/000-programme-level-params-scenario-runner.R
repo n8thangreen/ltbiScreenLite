@@ -18,15 +18,15 @@ devtools::load_all(".")
 
 pkgs <- c("parallel",
           "assertthat",
-          "miscUtilities",
           "crayon",
           "tibble",
           "memoise",
           "QALY",
           "here",
           "arm",
+          "miscUtilities", #NG
+          "treeSimR", #NG
           "data.tree",
-          "treeSimR",
           "magrittr")
 
 inst <- lapply(pkgs, library, character.only = TRUE)
